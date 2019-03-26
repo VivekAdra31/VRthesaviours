@@ -1,4 +1,4 @@
-# VRthesaviours
+# VRthesaviours(Winner of HackNTU 2019)
 
 ## Inspiration
 Singapore is prone to natural disasters such as earthquakes and cyclones. Where prevention is not an option, we must turn to effective preparation. This encouraged us to build a VR application which mainly aims at training the citizens in disaster management skills. The app can be used in schools, universities and even in corporations to train individuals. By training the public, we make sure they don't panic in real life emergencies and are able to make informed decisions to help themselves and others. 
