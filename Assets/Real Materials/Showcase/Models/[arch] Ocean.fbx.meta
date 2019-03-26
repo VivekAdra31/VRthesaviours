@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 8e85645d486ec37498ed2fe8cad7487b
+timeCreated: 1518272438
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ocean
+    100004: Ocean far A_GIPROXY
+    100006: Ocean far B_GIPROXY
+    100008: Ocean far C_GIPROXY
+    100010: Ocean far D_GIPROXY
+    100012: Ocean near A_GIPROXY
+    100014: Ocean near B_GIPROXY
+    100016: Ocean near C_GIPROXY
+    100018: Ocean near D_GIPROXY
+    100020: Ocean bed A
+    100022: Ocean bed B
+    100024: Ocean bed C
+    100026: Ocean bed D
+    100028: Ocean bed distant A
+    100030: Ocean bed distant B
+    100032: Ocean bed distant C
+    100034: Ocean bed distant D
+    100036: Ocean bed far A
+    100038: Ocean bed far B
+    100040: Ocean bed far C
+    100042: Ocean bed far D
+    100044: Ocean water
+    400000: //RootNode
+    400002: Ocean
+    400004: Ocean far A_GIPROXY
+    400006: Ocean far B_GIPROXY
+    400008: Ocean far C_GIPROXY
+    400010: Ocean far D_GIPROXY
+    400012: Ocean near A_GIPROXY
+    400014: Ocean near B_GIPROXY
+    400016: Ocean near C_GIPROXY
+    400018: Ocean near D_GIPROXY
+    400020: Ocean bed A
+    400022: Ocean bed B
+    400024: Ocean bed C
+    400026: Ocean bed D
+    400028: Ocean bed distant A
+    400030: Ocean bed distant B
+    400032: Ocean bed distant C
+    400034: Ocean bed distant D
+    400036: Ocean bed far A
+    400038: Ocean bed far B
+    400040: Ocean bed far C
+    400042: Ocean bed far D
+    400044: Ocean water
+    2300000: Ocean
+    2300002: Ocean far A_GIPROXY
+    2300004: Ocean far B_GIPROXY
+    2300006: Ocean far C_GIPROXY
+    2300008: Ocean far D_GIPROXY
+    2300010: Ocean near A_GIPROXY
+    2300012: Ocean near B_GIPROXY
+    2300014: Ocean near C_GIPROXY
+    2300016: Ocean near D_GIPROXY
+    2300018: Ocean bed A
+    2300020: Ocean bed B
+    2300022: Ocean bed C
+    2300024: Ocean bed D
+    2300026: Ocean bed distant A
+    2300028: Ocean bed distant B
+    2300030: Ocean bed distant C
+    2300032: Ocean bed distant D
+    2300034: Ocean bed far A
+    2300036: Ocean bed far B
+    2300038: Ocean bed far C
+    2300040: Ocean bed far D
+    2300042: Ocean water
+    3300000: Ocean
+    3300002: Ocean far A_GIPROXY
+    3300004: Ocean far B_GIPROXY
+    3300006: Ocean far C_GIPROXY
+    3300008: Ocean far D_GIPROXY
+    3300010: Ocean near A_GIPROXY
+    3300012: Ocean near B_GIPROXY
+    3300014: Ocean near C_GIPROXY
+    3300016: Ocean near D_GIPROXY
+    3300018: Ocean bed A
+    3300020: Ocean bed B
+    3300022: Ocean bed C
+    3300024: Ocean bed D
+    3300026: Ocean bed distant A
+    3300028: Ocean bed distant B
+    3300030: Ocean bed distant C
+    3300032: Ocean bed distant D
+    3300034: Ocean bed far A
+    3300036: Ocean bed far B
+    3300038: Ocean bed far C
+    3300040: Ocean bed far D
+    3300042: Ocean water
+    4300000: Ocean near D_GIPROXY
+    4300002: Ocean near C_GIPROXY
+    4300004: Ocean near B_GIPROXY
+    4300006: Ocean near A_GIPROXY
+    4300008: Ocean far D_GIPROXY
+    4300010: Ocean far C_GIPROXY
+    4300012: Ocean far B_GIPROXY
+    4300014: Ocean far A_GIPROXY
+    4300016: Ocean
+    4300018: Ocean bed distant B
+    4300020: Ocean bed distant C
+    4300022: Ocean bed distant D
+    4300024: Ocean bed far A
+    4300026: Ocean bed far B
+    4300028: Ocean bed far C
+    4300030: Ocean bed far D
+    4300032: Ocean bed B
+    4300034: Ocean bed C
+    4300036: Ocean bed D
+    4300038: Ocean bed A
+    4300040: Ocean bed distant A
+    4300042: Ocean water
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
