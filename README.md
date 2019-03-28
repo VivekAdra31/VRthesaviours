@@ -37,4 +37,10 @@ The scenes were built in Unity and various aspects of the game are triggered usi
 3. Increase the user base which can use the app.
 
 ## Link to code and assets
-[VRtheSaviour] (https://drive.google.com/open?id=1X6q-6yOphgN_NLT0VEcdA6HDeCytYaxe)
+![VRtheSaviour] (https://drive.google.com/open?id=1X6q-6yOphgN_NLT0VEcdA6HDeCytYaxe)
+
+## Output 
+![img1](https://raw.githubusercontent.com/VivekAdra31/VRthesaviours/master/output1.png)
+![img2](https://raw.githubusercontent.com/VivekAdra31/VRthesaviours/master/output2.png)
+![img3](https://raw.githubusercontent.com/VivekAdra31/VRthesaviours/master/output3.png)
+![img4](https://raw.githubusercontent.com/VivekAdra31/VRthesaviours/master/output4.png)
